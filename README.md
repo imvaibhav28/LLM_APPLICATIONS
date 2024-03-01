@@ -14,7 +14,6 @@ Langserve
 Pytorch
 Jupyter-lab
 
-![Screenshot](/RAG/Screenshot 2024-03-01 at 21.08.21.png)
 
 
 ![LSTM](LLM_APPLICATIONS/RAG/Screenshot 2024-03-01 at 21.08.21.png)
